@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstpedalswithpics" value="name:pedalid;datatype:int,name:pedalname;datatype:string,name:prodpic;datatype:string,name:description;datatype:string,name:price;datatype:real,name:otblbrand_brandname;datatype:string,name:otblcats_catname;datatype:string" />
+	<infoitem key="UD_rstproductspage" value="name:pedalid;datatype:int,name:pedalname;datatype:string,name:prodpic;datatype:string,name:description;datatype:string,name:price;datatype:real,name:otblbrand_brandname;datatype:string,name:otblcats_catname;datatype:string" />
+	<infoitem key="UD_rstPedalBrand" value="name:brandid;datatype:int,name:brandname;datatype:string" />
+	<infoitem key="UD_rstPedalCats" value="name:catid;datatype:int,name:catname;datatype:string" />
+	<infoitem key="UD_rstThePedal" value="name:pedalid;datatype:int,name:pedalname;datatype:string,name:prodpic;datatype:string,name:description;datatype:blob,name:longdescription;datatype:blob,name:pmpicalt;datatype:string,name:price;datatype:real,name:otblbrand_brandname;datatype:string,name:otblcats_catname;datatype:string" />
+</info>

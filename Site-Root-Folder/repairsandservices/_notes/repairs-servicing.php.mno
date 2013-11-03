@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstserorrep" value="name:id;datatype:int,name:servorrepname;datatype:string" />
+	<infoitem key="UD_rstservreptype" value="name:servtype_id;datatype:int,name:servtype;datatype:string" />
+</info>

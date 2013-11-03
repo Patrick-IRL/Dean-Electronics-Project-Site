@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstcustompedaldetails" value="name:id;datatype:int,name:cpname;datatype:string,name:cppic;datatype:string,name:cppicsmall;datatype:string,name:cpprice;datatype:real,name:cpdesc;datatype:string,name:cp_cat_id;datatype:int,name:cplongdesc;datatype:blob,name:picalttag;datatype:string,name:catid;datatype:int,name:catname;datatype:string" />
+	<infoitem key="UD_rstcporderstatus" value="name:status_id;datatype:int,name:status;datatype:string" />
+	<infoitem key="UD_rstcamporders" value="name:id;datatype:int,name:caname;datatype:string,name:wattrange_id;datatype:int,name:wattage;datatype:real,name:capic;datatype:string,name:capicsmall;datatype:string,name:caprice;datatype:real,name:cadesc;datatype:string,name:capicalt;datatype:string,name:calongdesc;datatype:blob,name:wattid;datatype:int,name:wattageband;datatype:string" />
+	<infoitem key="UD_rstcastatus" value="name:status_id;datatype:int,name:status;datatype:string" />
+</info>

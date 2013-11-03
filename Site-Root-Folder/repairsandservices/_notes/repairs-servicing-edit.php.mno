@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstservrepall" value="name:id;datatype:int,name:srfname;datatype:string,name:srlname;datatype:string,name:sremail;datatype:string,name:srphone;datatype:string,name:servrep;datatype:int,name:servtype;datatype:int,name:srdesc;datatype:blob,name:status;datatype:int,name:datesubmitted;datatype:date,name:servorrepname;datatype:string,name:servtype_id;datatype:int,name:servtype;datatype:string,name:status_id;datatype:int,name:status;datatype:string" />
+	<infoitem key="UD_rstservrepedit" value="name:id;datatype:int,name:servorrepname;datatype:string" />
+	<infoitem key="UD_rstservreptype" value="name:servtype_id;datatype:int,name:servtype;datatype:string" />
+	<infoitem key="UD_rstservorrep" value="name:id;datatype:int,name:servorrepname;datatype:string" />
+	<infoitem key="UD_rstservreptbl" value="name:id;datatype:int,name:srfname;datatype:string,name:srlname;datatype:string,name:sremail;datatype:string,name:srphone;datatype:string,name:servrep;datatype:int,name:servtype;datatype:int,name:srdesc;datatype:blob,name:srstatus;datatype:int,name:datesubmitted;datatype:date" />
+	<infoitem key="UD_rststatus" value="name:status_id;datatype:int,name:status;datatype:string" />
+</info>

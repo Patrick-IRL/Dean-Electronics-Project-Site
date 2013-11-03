@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsteditpmod" value="name:pedalid;datatype:int,name:pedalname;datatype:string,name:brand_id;datatype:int,name:cat_id;datatype:int,name:prodpic;datatype:string,name:description;datatype:blob,name:price;datatype:real,name:picsmall;datatype:string,name:longdescription;datatype:blob,name:pmpicalt;datatype:string" />
+	<infoitem key="UD_rsteditpmodbrand" value="name:brandid;datatype:int,name:brandname;datatype:string" />
+	<infoitem key="UD_rsteditpmodcat" value="name:catid;datatype:int,name:catname;datatype:string" />
+</info>

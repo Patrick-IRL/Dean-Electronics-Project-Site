@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstpedals" value="name:pedalname;datatype:string,name:prodpic;datatype:string,name:description;datatype:string,name:price;datatype:real,name:otblbrand_brandname;datatype:string,name:otblcats_catname;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:pedalid;datatype:int,name:pedalname;datatype:string,name:prodpic;datatype:string,name:picsmall;datatype:string,name:description;datatype:blob,name:price;datatype:real,name:pmpicalt;datatype:string,name:otblbrand_brandname;datatype:string,name:otblcats_catname;datatype:string" />
+</info>

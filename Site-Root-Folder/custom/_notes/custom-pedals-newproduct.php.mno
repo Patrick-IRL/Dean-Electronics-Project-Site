@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstnewcustompedal" value="name:id;datatype:int,name:cpname;datatype:string,name:cppic;datatype:string,name:cppicsmall;datatype:string,name:cpprice;datatype:real,name:cpdesc;datatype:string,name:cp_cat_id;datatype:int,name:cplongdesc;datatype:blob,name:picalttag;datatype:string" />
+	<infoitem key="UD_rstcustompedalslist" value="name:id;datatype:int,name:cpname;datatype:string,name:cppic;datatype:string,name:cppicsmall;datatype:string,name:cpprice;datatype:real,name:cpdesc;datatype:string,name:cp_cat_id;datatype:int,name:cplongdesc;datatype:blob,name:picalttag;datatype:string,name:catid;datatype:int,name:catname;datatype:string" />
+	<infoitem key="UD_rstcategorylist" value="name:catid;datatype:int,name:catname;datatype:string" />
+	<infoitem key="UD_rstnewcp" value="name:id;datatype:int,name:cpname;datatype:string,name:cppic;datatype:string,name:cppicsmall;datatype:string,name:cpprice;datatype:real,name:cpdesc;datatype:string,name:cp_cat_id;datatype:int,name:cplongdesc;datatype:blob,name:picalttag;datatype:string" />
+	<infoitem key="UD_rstnewcpcats" value="name:catid;datatype:int,name:catname;datatype:string" />
+</info>

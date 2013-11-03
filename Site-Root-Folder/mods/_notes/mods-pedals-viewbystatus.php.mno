@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstpedalmodorder" value="name:id;datatype:int,name:datesubmitted;datatype:date,name:pedalorderstatus_id;datatype:int,name:fname;datatype:string,name:lname;datatype:string,name:email;datatype:string,name:phone;datatype:string,name:brand_id;datatype:int,name:pedalmodelname;datatype:string,name:priceordered;datatype:real,name:status_id;datatype:int,name:status;datatype:string,name:brandid;datatype:int,name:brandname;datatype:string" />
+	<infoitem key="UD_rstpmodsviewbystatus" value="name:id;datatype:int,name:datesubmitted;datatype:date,name:pedalorderstatus_id;datatype:int,name:fname;datatype:string,name:lname;datatype:string,name:email;datatype:string,name:phone;datatype:string,name:brand_id;datatype:int,name:pedalmodelname;datatype:string,name:priceordered;datatype:real,name:status_id;datatype:int,name:status;datatype:string,name:brandid;datatype:int,name:brandname;datatype:string" />
+</info>

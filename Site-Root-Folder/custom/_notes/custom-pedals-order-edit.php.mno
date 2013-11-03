@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstcporder" value="name:id;datatype:int,name:datesubmitted;datatype:date,name:cporderstatus_id;datatype:int,name:fname;datatype:string,name:lname;datatype:string,name:email;datatype:string,name:phone;datatype:string,name:cpcat_id;datatype:int,name:cppedalname;datatype:string,name:cppriceordered;datatype:real" />
+	<infoitem key="UD_rstcpstatus" value="name:status_id;datatype:int,name:status;datatype:string" />
+	<infoitem key="UD_rstcpcategory" value="name:catid;datatype:int,name:catname;datatype:string" />
+</info>

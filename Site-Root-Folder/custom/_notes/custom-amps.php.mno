@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstcamps" value="name:id;datatype:int,name:caname;datatype:string,name:wattrange_id;datatype:int,name:wattage;datatype:real,name:capic;datatype:string,name:capicsmall;datatype:string,name:caprice;datatype:real,name:cadesc;datatype:string,name:capicalt;datatype:string,name:calongdesc;datatype:blob,name:wattid;datatype:int,name:wattageband;datatype:string" />
+	<infoitem key="UD_rsteditcamp" value="name:id;datatype:int,name:caname;datatype:string,name:wattrange_id;datatype:int,name:wattage;datatype:real,name:capic;datatype:string,name:capicsmall;datatype:string,name:caprice;datatype:real,name:cadesc;datatype:string,name:capicalt;datatype:string,name:calongdesc;datatype:blob" />
+	<infoitem key="UD_rsteditampwatts" value="name:wattid;datatype:int,name:wattageband;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstcustompedalorders" value="name:id;datatype:int,name:datesubmitted;datatype:date,name:cporderstatus_id;datatype:int,name:fname;datatype:string,name:lname;datatype:string,name:email;datatype:string,name:phone;datatype:string,name:cpcat_id;datatype:int,name:cppedalname;datatype:string,name:cppriceordered;datatype:real,name:status;datatype:string,name:catid;datatype:int,name:catname;datatype:string" />
+</info>

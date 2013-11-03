@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstPedalsBrand" value="name:pedalid;datatype:int,name:pedalname;datatype:string,name:brandname;datatype:int,name:catname;datatype:int,name:prodpic;datatype:string,name:description;datatype:string,name:price;datatype:real" />
+	<infoitem key="UD_Recordset1" value="name:brandid;datatype:int,name:brandname;datatype:string" />
+	<infoitem key="UD_rstPedalsByBrand" value="name:pedalid;datatype:int,name:pedalname;datatype:string,name:tblpedals_brandname;datatype:int,name:tblpedals_catname;datatype:int,name:prodpic;datatype:string,name:description;datatype:string,name:price;datatype:real,name:catid;datatype:int,name:otblcats_catname;datatype:string,name:brandid;datatype:int,name:otblbrand_brandname;datatype:string" />
+	<infoitem key="UD_rstPedalsByBrands" value="name:brandid;datatype:int,name:brandname;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:pedalid;datatype:int,name:pedalname;datatype:string,name:tblpedals_brandname;datatype:int,name:tblpedals_catname;datatype:int,name:description;datatype:string,name:price;datatype:real,name:brandid;datatype:int,name:otblbrand_brandname;datatype:string,name:catid;datatype:int,name:otblcats_catname;datatype:string" />
+	<infoitem key="UD_rstPedalByBrand" value="name:pedalid;datatype:int,name:pedalname;datatype:string,name:prodpic;datatype:string,name:description;datatype:string,name:price;datatype:real,name:otblbrand_brandname;datatype:string,name:otblcats_catname;datatype:string" />
+	<infoitem key="UD_rstpedalbrand" value="name:pedalid;datatype:int,name:pedalname;datatype:string,name:brand_id;datatype:int,name:cat_id;datatype:int,name:prodpic;datatype:string,name:description;datatype:string,name:price;datatype:real,name:picsmall;datatype:string,name:brand_name;datatype:string,name:catid;datatype:int,name:catname;datatype:string" />
+</info>

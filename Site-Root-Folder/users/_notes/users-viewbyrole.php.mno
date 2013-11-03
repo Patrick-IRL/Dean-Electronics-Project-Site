@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstusers" value="name:userid;datatype:int,name:username;datatype:string,name:fname;datatype:string,name:lname;datatype:string,name:dob;datatype:date,name:password;datatype:string,name:role;datatype:int,name:email;datatype:string,name:datejoined;datatype:date,name:phone;datatype:string,name:role_id;datatype:int,name:rolename;datatype:string" />
+	<infoitem key="UD_rstusersbyrole" value="name:userid;datatype:int,name:username;datatype:string,name:fname;datatype:string,name:lname;datatype:string,name:dob;datatype:date,name:password;datatype:string,name:role;datatype:int,name:email;datatype:string,name:datejoined;datatype:date,name:phone;datatype:string,name:role_id;datatype:int,name:rolename;datatype:string" />
+</info>
